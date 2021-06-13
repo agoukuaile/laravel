@@ -1,7 +1,7 @@
 <?php
 
 /**
- * *好写得好
+ * *好写得好操操操
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
